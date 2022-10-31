@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "nombre": "Promoción Malbec",
+        "categoria": 1,
+        "detalle": "DADA Malbec - Plan B - Chacabuco",
+        "precio": 2400,
+        "stock": 20,
+        "img": "https://firebasestorage.googleapis.com/v0/b/younesvidal-5143f.appspot.com/o/oferta1.jpeg?alt=media&token=d7b91de6-f987-4cd5-a1a9-050e1ee8bb31"
+    },
+    {
+        "id": 2,
+        "nombre": "Delantal Parrillero",
+        "categoria": 4,
+        "detalle": "Delantal Unisex Modelo: Atenas - Delantal pensado para Bartender, Barista, Mozo/a, para la Cocina y la Parrilla; con un gran diseño y calidad.",
+        "precio": 6500,
+        "stock": 8,
+        "img": "https://firebasestorage.googleapis.com/v0/b/younesvidal-5143f.appspot.com/o/delantalasador.jpeg?alt=media&token=35b24efb-44a0-4041-ba80-16d3fc26cdf6"
+    },
+    {
+        "id": 3,
+        "nombre": "Cerveza Corona",
+        "categoria": 2,
+        "detalle": "Six Pack - (6 X 350 ml)",
+        "precio": 1800,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/younesvidal-5143f.appspot.com/o/corona.jpeg?alt=media&token=787f0a77-77c2-475a-ad76-d1d218379642"
+    },
+    {
+        "id": 4,
+        "nombre": "Vodka Skyy",
+        "categoria": 3,
+        "detalle": "Excelente Calidad",
+        "precio": 2150,
+        "stock": 8,
+        "img": "https://firebasestorage.googleapis.com/v0/b/younesvidal-5143f.appspot.com/o/skyy.jpeg?alt=media&token=70ba0152-3255-432d-81be-666dc2e291e6"
+    },
+    {
+        "id": 5,
+        "nombre": "Artículos Sommelier",
+        "categoria": 4,
+        "detalle": "Set Wine de Vino especial y alta calidad de 4 piezas: Destapador, Tapón, Anillo Caída, Termómetro",
+        "precio": 4800,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/younesvidal-5143f.appspot.com/o/varios.jpeg?alt=media&token=14dcd3c2-a8a9-419c-9891-61d699f8a1dd"
+    },
+    {
+        "id": 6,
+        "nombre": "Vodka Smirnoff",
+        "categoria": 3,
+        "detalle": "Excelente Calidad",
+        "precio": 2150,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/younesvidal-5143f.appspot.com/o/smirnoff.jpeg?alt=media&token=48ec731e-298b-4d57-a7df-d306fe5067ba"
+    },
+    {
+        "id": 7,
+        "nombre": "Cerveza Heineken",
+        "categoria": 2,
+        "detalle": "Six Pack - (6 X 473 ml3)",
+        "precio": 1200,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/younesvidal-5143f.appspot.com/o/heineken.jpeg?alt=media&token=35a039f1-58a7-42a7-ade5-f7edef306527"
+    },
+    {
+        "id": 8,
+        "nombre": "Promoción Malbec",
+        "categoria": 1,
+        "detalle": "Nampe - Vaca Club - Estancia Mendoza",
+        "precio": 1500,
+        "stock": 25,
+        "img": "https://firebasestorage.googleapis.com/v0/b/younesvidal-5143f.appspot.com/o/oferta3.jpeg?alt=media&token=a003dc3c-022e-45ad-9c8a-5c7d80ee9e83"
+    },
+    {
+        "id": 9,
+        "nombre": "Cerveza Stella Artois",
+        "categoria": 2,
+        "detalle": "Six Pack - (6 X 473 cm3)",
+        "precio": 2100,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/younesvidal-5143f.appspot.com/o/stella.jpeg?alt=media&token=07d90a03-a8ed-409d-85e5-4fba20d12b58"
+    },
+    {
+        "id": 10,
+        "nombre": "Promoción Malbec",
+        "categoria": 1,
+        "detalle": "Tucumen Reserva - Los Haraldos - Alma Mora",
+        "precio": 3200,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/younesvidal-5143f.appspot.com/o/oferta2.jpeg?alt=media&token=74471d93-db99-45bd-b08d-5567b9f2d191"
+    },
+    {
+        "id": 11,
+        "nombre": "Vodka Absolut",
+        "categoria": 3,
+        "detalle": "Excelente Calidad",
+        "precio": 4600,
+        "stock": 20,
+        "img": "https://firebasestorage.googleapis.com/v0/b/younesvidal-5143f.appspot.com/o/absolut.jpeg?alt=media&token=f98f4b93-94fc-4620-b5cc-5daef8646e44"
+    },
+    {
+        "id": 12,
+        "nombre": "Copas Stella Artois",
+        "categoria": 4,
+        "detalle": "2 copas Stella de 500 Ml",
+        "precio": 2800,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/younesvidal-5143f.appspot.com/o/copas.jpeg?alt=media&token=54f4800c-4a39-4b26-b4cf-c92f901650fc"
+    }
+]

@@ -1,0 +1,51 @@
+.navbar-envios{
+  background-color: #D9110A;
+  color: white;
+  margin-bottom: 0;
+  padding: 0.2rem;
+  text-align: center;
+}
+.navbar-logo{
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.footer-estilo{
+  background-color: #212121;
+  color: white;
+}
+.footer-menu{
+  margin-right: 1rem;
+  text-decoration: none;
+  color: white;
+}
+.card-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 1rem;
+}
+.card-marging{
+  margin-top: 1.5rem;
+}
+.imgage-cart{
+  width: 5rem;
+  height: 5rem;
+}
+.margin-btn{
+  margin: 1.5rem;
+}
+.cart-vacio{
+  width: 20rem;
+  height: 20rem;
+}
+.margin-mc{
+  margin: 3rem;
+}
+.aboutMargin{
+  margin: 2rem;
+}
+.imagenAbout{
+  width: 15rem;
+  height: 15rem;
+}
